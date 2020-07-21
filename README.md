@@ -1,3 +1,9 @@
+# Forked Repo
+
+This is a fork of the protected links repo to correct a permissions [issue](https://github.com/intoeetive/protectedlinks/issues/90) that has
+yet to be fixed by the developer (2 years ath this time since the plugin was last updated). This fork is being used in the [Facade Tectonics project](https://github.com/FosterCommerce/FTI/blob/develop/composer.json#L90)
+instead of the master fork of this plugin. 
+
 # Protected Links plugin for Craft CMS 3.x
 
 This plugin is intended to provide a way for restricting access to asset files and hide their actual location. Additionally, it will count downloads for each file.
